@@ -1,4 +1,4 @@
 # Welcome to Connor's Website!
-This is my Website with all my Projects and Contact Information
+This is my personal website for all my projects and stuff.
 
-You can see it at: [connor.js.org](https://connor.js.org)
+You can see it at: [connor.is-a.dev](https://connor.is-a.dev)
